@@ -1,0 +1,43 @@
+BIBLIOGRAFÍA — Elementos de Inteligencia Artificial
+====================================================
+
+Los libros no se incluyen en el repositorio; esta es la lista de referencias del curso.
+
+
+BÁSICA
+------
+
+1. Russell, Stuart J.; Norvig, Peter.
+   Artificial Intelligence: A Modern Approach. 4.ª edición. Pearson, 2020.
+
+2. Murphy, Kevin P.
+   Probabilistic Machine Learning: An Introduction. MIT Press, 2022.
+
+3. Duda, Richard O.; Hart, Peter E.; Stork, David G.
+   Pattern Classification. 2.ª edición. Wiley, 2001.
+
+
+COMPLEMENTARIA
+--------------
+
+4. Talbi, El-Ghazali.
+   Metaheuristics: From Design to Implementation. Wiley, 2009.
+
+5. Gendreau, Michel; Potvin, Jean-Yves (eds.).
+   Handbook of Metaheuristics. 3.ª edición. Springer, 2019.
+
+6. Abu-Mostafa, Yaser S.; Magdon-Ismail, Malik; Lin, Hsuan-Tien.
+   Learning from Data: A Short Course. AMLBook, 2012.
+
+7. Koller, Daphne; Friedman, Nir; Getoor, Lise; Taskar, Ben.
+   "Graphical Models in a Nutshell". Cap. 2 de Getoor, L. y Taskar, B. (eds.),
+   Introduction to Statistical Relational Learning. MIT Press, 2007.
+
+
+OTRAS REFERENCIAS (sin PDF; recomendadas por el curso CS221 de Stanford)
+------------------------------------------------------------------------
+
+- Koller, D.; Friedman, N. Probabilistic Graphical Models: Principles and Techniques. MIT Press, 2009.
+- Sutton, R. S.; Barto, A. G. Reinforcement Learning: An Introduction. 2.ª edición. MIT Press, 2018.
+- Hastie, T.; Tibshirani, R.; Friedman, J. The Elements of Statistical Learning. 2.ª edición. Springer, 2009.
+- Tsang, E. Foundations of Constraint Satisfaction. Academic Press, 1993.

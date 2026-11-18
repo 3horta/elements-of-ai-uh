@@ -55,6 +55,8 @@ Machine Learning: An Introduction* (2021) · Duda, Hart y Stork, *Pattern Classi
 **Complementaria:** Talbi, *Metaheuristics: From Design to Implementation* · Gendreau y Potvin, *Handbook of
 Metaheuristics* · Abu-Mostafa, Magdon-Ismail y Lin, *Learning from Data*.
 
+La lista completa, con editoriales y ediciones, está en [bibliografia.txt](bibliografia.txt).
+
 ## Sobre los materiales
 
 Las notas se escriben en Markdown y se convierten a PDF con pandoc. Algunas figuras provienen de los libros de la
