@@ -44,7 +44,8 @@ el PDF.
 
 ## Proyectos
 
-- **Proyecto 1 — Rover autónomo**: [enunciado (PDF)](proyectos/Proyecto%201%20-%20Rover.pdf).
+- **Proyecto 1 — Rover autónomo**: [enunciado (PDF)](proyectos/Proyecto%201%20-%20Rover.pdf) · código de
+  referencia en [proyectos/rover/](proyectos/rover/) (`rover.py`, entorno y rover; `validador.py`, validación de planes).
 
 ## Bibliografía
 
