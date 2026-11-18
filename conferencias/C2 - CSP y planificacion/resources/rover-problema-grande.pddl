@@ -1,0 +1,20 @@
+; Instancia usada en la tabla de la sección 4 de la nota 2b.
+; Ocho lugares, cinco muestras. Plan óptimo: 25 acciones.
+(define (problem mision-2)
+  (:domain rover)
+  (:objects base ant r1 r2 r3 r4 r5 r6 - lugar
+            m1 m2 m3 m4 m5 - muestra)
+  (:init (en base)
+         (conectado base ant) (conectado ant base)
+         (conectado base r1)  (conectado r1 base)
+         (conectado r1 r2)    (conectado r2 r1)
+         (conectado r2 r3)    (conectado r3 r2)
+         (conectado base r4)  (conectado r4 base)
+         (conectado r4 r5)    (conectado r5 r4)
+         (conectado r5 r6)    (conectado r6 r5)
+         (conectado r2 r5)    (conectado r5 r2)
+         (muestra-en m1 r1) (muestra-en m2 r3) (muestra-en m3 r3)
+         (muestra-en m4 r5) (muestra-en m5 r6)
+         (zona-com ant))
+  (:goal (and (transmitida m1) (transmitida m2) (transmitida m3)
+              (transmitida m4) (transmitida m5))))

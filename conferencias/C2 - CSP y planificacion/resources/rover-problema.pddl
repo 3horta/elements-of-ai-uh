@@ -1,0 +1,11 @@
+(define (problem mision-1)
+  (:domain rover)
+  (:objects base r1 r2 ant - lugar
+            m1 m2 - muestra)
+  (:init (en base)
+         (conectado base r1) (conectado r1 base)
+         (conectado r1 r2)   (conectado r2 r1)
+         (conectado base ant) (conectado ant base)
+         (muestra-en m1 r1) (muestra-en m2 r2)
+         (zona-com ant))
+  (:goal (and (transmitida m1) (transmitida m2))))
